@@ -1,2 +1,6 @@
 # odin-recipes
 My first project!
+
+~ Self Reflection ~
+
+I created my very first website with recipes to share with everyone of the world! I thought that this project was very fun and interesting at the same time because as soon as I finished one recipe, I was able to have this sort of layout for the rest of my recipes when it came to coding them in html. I used many paragraph elements and header elements in this project, as well as em and strong elements for the descriptions of the recipes! Unordered and ordered lists were most definitely the easiest part of this project as a result of being able to identify which parts of the recipes needed unordered or ordered lists, in which the ingredients of the recipes needed an unordered list and the directions/steps of the recipes needed to use ordered lists since they were in chronological order. In brief, this project was extremely fun and had me entertained along the ride! I most definitely learned a lot and would eagerly do something like this again!
