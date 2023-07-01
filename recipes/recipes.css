@@ -1,0 +1,20 @@
+.head {
+    background-color: red;
+    color:blue; 
+}
+
+.slaw {
+    width:1000px;
+    length:2000px;
+}
+
+.text {
+    font-size:large;
+    font-family: 'Times New Roman'
+}
+
+.list {
+    font-size:x-large;
+    font-weight:bold;
+    color:brown;
+}
