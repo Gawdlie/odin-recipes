@@ -10,11 +10,30 @@
 
 .text {
     font-size:large;
+    font-weight:bolder;
     font-family: 'Times New Roman'
 }
 
 .list {
     font-size:x-large;
     font-weight:bold;
-    color:brown;
+    color:indigo;
+}
+
+.corn {
+    background-color:blueviolet;
+    font-size:xx-large;
+    font-family:Tahoma;
+}
+
+.list-two {
+    font-size:medium;
+    font-weight:bold;
+    color:deeppink;
+    background-color:darkgreen;
+}
+
+.corn-image {
+    width:700px;
+    length:1400px;
 }
