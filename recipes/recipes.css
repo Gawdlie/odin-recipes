@@ -53,3 +53,16 @@
     color:darkblue;
     font-size:small;
 }
+
+.feta {
+    background-color:forestgreen;
+    color:fuchsia;
+    font-size:larger;
+    font-weight:bolder;
+}
+
+.list-four {
+    background-color:honeydew;
+    color:rebeccapurple;
+    font-size:30px;
+}
