@@ -37,3 +37,19 @@
     width:700px;
     length:1400px;
 }
+
+.beef {
+    background-color:aquamarine;
+    color:orangered;
+}
+
+.beef-image {
+    width:500px;
+    length:1000px;
+}
+
+.list-three {
+    background-color:darkgoldenrod;
+    color:darkblue;
+    font-size:small;
+}
