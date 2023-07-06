@@ -1,0 +1,29 @@
+.main-title {
+    padding: 20px;
+    margin: 50px 800px;
+    border: 10px solid black;
+    background-color:blueviolet;
+    text-align: center;
+}
+
+.main-image {
+    padding: 30px;
+    margin: auto 600px;
+}
+
+.main-recipes {
+    font-size: 24px;
+    color: black;
+    padding: 20px;
+    margin: 50px 800px;
+    border: 5px solid black;
+    background-color:cyan;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.main-body {
+    border: 10px solid black;
+    background-color:indianred;
+}
+
