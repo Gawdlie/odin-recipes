@@ -19,7 +19,7 @@
 }
 
 .main-body {
-    border: 10px dotted black;
+    border: 10px dashed black;
     background-color:greenyellow;
 }
 
@@ -70,7 +70,7 @@
 }
 
 .corn-body {
-    border: 10px dotted black;
+    border: 10px dashed black;
     background-color:gold;
 }
 
@@ -99,11 +99,15 @@
 }
 
 .list-three {
-    background-color:darkgoldenrod;
-    color:darkblue;
-    font-size:small;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
 }
 
+.beef-body {
+    background-color:fuchsia;
+    border: 10px dashed black;
+}
 
 
 
@@ -112,13 +116,29 @@
 
 .feta {
     background-color:forestgreen;
-    color:fuchsia;
-    font-size:larger;
-    font-weight:bolder;
+    color: black;
+    font-size: 45px;
+    padding: 15px;
+    text-align: center;
+    display: inline-block;
+    border: 5px solid black;
+    margin: 25px 750px;
+}
+
+.melon-image {
+    width: 750px;
+    length: 1500px;
+    padding: 30px;
+    margin: auto 550px;
 }
 
 .list-four {
-    background-color:honeydew;
-    color:rebeccapurple;
-    font-size:30px;
+    color: black;
+    font-size:35px;
+    font-weight: bold;
+}
+
+.melon-body {
+    background-color:darkseagreen;
+    border: 10px dashed black;
 }
